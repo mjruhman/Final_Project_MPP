@@ -1,0 +1,56 @@
+
+Setting up the problem...0.000003 s
+    Input size = 100, algo=2
+Allocating device variables...0.218555 s
+Copying data from host to device...0.000025 s
+Launching sort kernel(s)...0.000068 s
+Copying data from device to host...0.000008 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.000012 s
+    Input size = 1000, algo=2
+Allocating device variables...0.188154 s
+Copying data from host to device...0.000025 s
+Launching sort kernel(s)...0.000069 s
+Copying data from device to host...0.000008 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.000089 s
+    Input size = 10000, algo=2
+Allocating device variables...0.187768 s
+Copying data from host to device...0.000027 s
+Launching sort kernel(s)...0.000070 s
+Copying data from device to host...0.000018 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.000786 s
+    Input size = 100000, algo=2
+Allocating device variables...0.187498 s
+Copying data from host to device...0.000058 s
+Launching sort kernel(s)...0.000097 s
+Copying data from device to host...0.000116 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.007568 s
+    Input size = 1000000, algo=2
+Allocating device variables...0.182108 s
+Copying data from host to device...0.000247 s
+Launching sort kernel(s)...0.000488 s
+Copying data from device to host...0.000752 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.014731 s
+    Input size = 2000000, algo=2
+Allocating device variables...0.180564 s
+Copying data from host to device...0.000419 s
+Launching sort kernel(s)...0.000935 s
+Copying data from device to host...0.001505 s
+Verifying results...    Verification PASSED (array sorted ascending)
+
+Setting up the problem...0.022134 s
+    Input size = 3000000, algo=2
+Allocating device variables...0.187922 s
+Copying data from host to device...0.000592 s
+Launching sort kernel(s)...0.001264 s
+Copying data from device to host...0.001618 s
+Verifying results...    Verification PASSED (array sorted ascending)

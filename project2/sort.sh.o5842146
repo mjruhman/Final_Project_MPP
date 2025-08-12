@@ -1,0 +1,8 @@
+
+Setting up the problem...0.022084 s
+    Input size = 3000000, algo=1
+Allocating device variables...0.218132 s
+Copying data from host to device...0.000596 s
+Launching sort kernel(s)...3549.672119 s
+Copying data from device to host...0.001758 s
+Verifying results...    Verification PASSED (array sorted ascending)

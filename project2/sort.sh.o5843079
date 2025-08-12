@@ -1,0 +1,6 @@
+
+Setting up the problem...0.021665 s
+    Input size = 3000000, algo=1
+Allocating device variables...0.224751 s
+Copying data from host to device...0.000590 s
+Launching sort kernel(s)...
